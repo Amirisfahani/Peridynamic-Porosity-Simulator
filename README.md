@@ -22,3 +22,14 @@ The resulting `.vtk` file can be visualized in **ParaView**, allowing you to see
 - Lightweight and dependency-free
 
 ---
+
+## 📸 Example Visualization  
+**Porosity Ratio:** 0.1  
+**Horizon Factor (m):** 4  
+**Grid Size:** 500 × 500 particles  
+
+Below is a visualization of the resulting damage distribution rendered in ParaView:
+
+![Porosity Simulation Example](images/porosity_phi01_h4_500x500.png)
+
+---
