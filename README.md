@@ -30,6 +30,6 @@ The resulting `.vtk` file can be visualized in **ParaView**, allowing you to see
 
 Below is a visualization of the resulting damage distribution rendered in ParaView:
 
-![Porosity Simulation Example](images/porosity_phi01_h4_500x500.png)
+![Porosity Simulation Example](images/porosity_phi01_h4_500x500.png.png)
 
 ---
